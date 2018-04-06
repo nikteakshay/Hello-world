@@ -30,7 +30,6 @@
 	<div class="navigator" align="center">
 		<?php include 'includes/mainNav.txt'; ?>
 	</div>
-	
 	<!-- MARQUEE INFO -->
 	<div class="marqueeInfo">
 		<?php include 'includes/Navmarquee.txt'; ?>
@@ -80,7 +79,7 @@
 	
 	<!-- FOOTER -->
 	<div class="footer" align="center" >
-		Copyright © Genetic Computer Institute Davao All Rights Reserved 2009.
+		Copyright Â© Genetic Computer Institute Davao All Rights Reserved 2009.
 	</div>
 	
 </div>
